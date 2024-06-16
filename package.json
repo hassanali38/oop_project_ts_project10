@@ -1,0 +1,21 @@
+{
+  "name": "oop-project-byhassanali",
+  "version": "1.0.0",
+  "description": "A simple and interactive command-line application built with TypeScript that demonstrates basic Object-Oriented Programming (OOP) principles. The application allows users to talk to themselves or interact with students. Users can add new students by name and check if a student already exists in the list. The program uses Inquirer for user prompts and provides a friendly and engaging way to manage and interact with a list of students. Perfect for learning and teaching OOP concepts in a fun and interactive manner.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.13.0"
+  }
+}
