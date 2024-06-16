@@ -10,7 +10,7 @@ A simple and interactive command-line application built with TypeScript that dem
 
 ## Clone the Repository
 ```bash
-git clone https://github.com/yourusername/student-interaction-cli.git
+git clone https://github.com/hassanali38/oop_project_ts_project10.git
 ```
 
 ## Example
